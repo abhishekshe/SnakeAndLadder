@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\snuc5\snuc5\bin\Debug\net6.0\snuc5.exe
+C:\Users\dell\source\repos\snuc5\snuc5\bin\Debug\net6.0\snuc5.deps.json
+C:\Users\dell\source\repos\snuc5\snuc5\bin\Debug\net6.0\snuc5.runtimeconfig.json
+C:\Users\dell\source\repos\snuc5\snuc5\bin\Debug\net6.0\snuc5.dll
+C:\Users\dell\source\repos\snuc5\snuc5\bin\Debug\net6.0\snuc5.pdb
+C:\Users\dell\source\repos\snuc5\snuc5\obj\Debug\net6.0\snuc5.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\snuc5\snuc5\obj\Debug\net6.0\snuc5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\snuc5\snuc5\obj\Debug\net6.0\snuc5.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\snuc5\snuc5\obj\Debug\net6.0\snuc5.AssemblyInfo.cs
+C:\Users\dell\source\repos\snuc5\snuc5\obj\Debug\net6.0\snuc5.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\snuc5\snuc5\obj\Debug\net6.0\snuc5.dll
+C:\Users\dell\source\repos\snuc5\snuc5\obj\Debug\net6.0\refint\snuc5.dll
+C:\Users\dell\source\repos\snuc5\snuc5\obj\Debug\net6.0\snuc5.pdb
+C:\Users\dell\source\repos\snuc5\snuc5\obj\Debug\net6.0\snuc5.genruntimeconfig.cache
+C:\Users\dell\source\repos\snuc5\snuc5\obj\Debug\net6.0\ref\snuc5.dll
