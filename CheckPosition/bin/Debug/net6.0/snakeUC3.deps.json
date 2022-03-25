@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "SnakeAndLedder/1.0.0": {
+      "snakeUC3/1.0.0": {
         "runtime": {
-          "SnakeAndLedder.dll": {}
+          "snakeUC3.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "SnakeAndLedder/1.0.0": {
+    "snakeUC3/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

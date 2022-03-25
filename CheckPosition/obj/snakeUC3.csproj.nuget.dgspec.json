@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dell\\source\\repos\\SnakeAndLedder\\SnakeAndLedder\\SnakeAndLedder.csproj": {}
+    "C:\\Users\\dell\\source\\repos\\snakeUC3\\snakeUC3\\snakeUC3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dell\\source\\repos\\SnakeAndLedder\\SnakeAndLedder\\SnakeAndLedder.csproj": {
+    "C:\\Users\\dell\\source\\repos\\snakeUC3\\snakeUC3\\snakeUC3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dell\\source\\repos\\SnakeAndLedder\\SnakeAndLedder\\SnakeAndLedder.csproj",
-        "projectName": "SnakeAndLedder",
-        "projectPath": "C:\\Users\\dell\\source\\repos\\SnakeAndLedder\\SnakeAndLedder\\SnakeAndLedder.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\source\\repos\\snakeUC3\\snakeUC3\\snakeUC3.csproj",
+        "projectName": "snakeUC3",
+        "projectPath": "C:\\Users\\dell\\source\\repos\\snakeUC3\\snakeUC3\\snakeUC3.csproj",
         "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dell\\source\\repos\\SnakeAndLedder\\SnakeAndLedder\\obj\\",
+        "outputPath": "C:\\Users\\dell\\source\\repos\\snakeUC3\\snakeUC3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
