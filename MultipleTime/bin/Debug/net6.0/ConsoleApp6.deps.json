@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "snuc5/1.0.0": {
+      "ConsoleApp6/1.0.0": {
         "runtime": {
-          "snuc5.dll": {}
+          "ConsoleApp6.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "snuc5/1.0.0": {
+    "ConsoleApp6/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
