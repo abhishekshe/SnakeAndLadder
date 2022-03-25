@@ -10,23 +10,23 @@ namespace SnakeAndLadder
     {
         static void Main(string[] args)
         {
-            
+            //local variable
             int rollDice, playerPos = 0;
             int count = 0;
 
-         
+            //To generate random number
             Random random = new Random();
-       
+            //List to check options
             var list = new List<string> { "No Play", "Ladder", "Snake" };
 
-         
+            //Conditions for user options
             rollDice = random.Next(1, 7);
             Console.WriteLine("Dice number is : " + rollDice);
 
-          
+            //Print user options
             Console.WriteLine("Player checks options 1.No Play  2.Ladder   3.Snake");
 
-          
+            //Use random to check user option
             int pos = random.Next(list.Count);
             Console.WriteLine("Player option is : " + list[pos]);
             if (playerPos + rollDice < 100)
@@ -40,7 +40,7 @@ namespace SnakeAndLadder
                     playerPos -= rollDice;
                 }
             }
-            else if (playerPos + rollDice == 100 && list[pos] == "Ladder")
+            else if (playerPos + rollDice == 100)
             {
                 playerPos += rollDice;
 
@@ -50,12 +50,12 @@ namespace SnakeAndLadder
             {
                 playerPos = 0;
             }
-       
+            //Print to Console
             Console.WriteLine("\n");
             Console.WriteLine("Player current position : " + playerPos);
             count++;
             Console.WriteLine("Final position is :" + playerPos);
-            Console.WriteLine("Total MOves:" + count);
+            Console.WriteLine("number of times:" + count);
         }
 
     }
