@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dell\\source\\repos\\shild\\shild\\shild.csproj",
-      "projectName": "shild",
-      "projectPath": "C:\\Users\\dell\\source\\repos\\shild\\shild\\shild.csproj",
+      "projectUniqueName": "C:\\Users\\dell\\source\\repos\\SnakeAndLedder\\SnakeAndLedder\\SnakeAndLedder.csproj",
+      "projectName": "SnakeAndLedder",
+      "projectPath": "C:\\Users\\dell\\source\\repos\\SnakeAndLedder\\SnakeAndLedder\\SnakeAndLedder.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dell\\source\\repos\\shild\\shild\\obj\\",
+      "outputPath": "C:\\Users\\dell\\source\\repos\\SnakeAndLedder\\SnakeAndLedder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
