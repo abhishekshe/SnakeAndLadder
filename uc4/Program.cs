@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,12 +10,12 @@ namespace SnakeAndLadder
     {
         static void Main(string[] args)
         {
-            
+           
             int rollDice, playerPos = 0;
 
-            
+         
             Random random = new Random();
-            
+        
             var list = new List<string> { "No Play", "Ladder", "Snake" };
 
             
@@ -26,7 +25,7 @@ namespace SnakeAndLadder
             
             Console.WriteLine("Player checks options 1.No Play  2.Ladder   3.Snake");
 
-            
+           
             int index = random.Next(list.Count);
             Console.WriteLine("Player option is : " + list[index]);
             if (playerPos + rollDice < 100)
@@ -39,7 +38,7 @@ namespace SnakeAndLadder
             {
                 playerPos = 0;
             }
-            
+           
             Console.WriteLine("\n");
             Console.WriteLine("Player current position : " + playerPos);
             Console.WriteLine("Final position is :" + playerPos);
